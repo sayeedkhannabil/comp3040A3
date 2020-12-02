@@ -18,14 +18,14 @@ This is a simple REST API with one endpoint which can which we can access using 
 
 ### Resources :
 
-```json
+``` json
 {
 	"result" :
 	{
-		"test_center",
-		"city",
-		"opening_time",
-		"closing_time",
+		"test_center" ,
+		"city" ,
+		"opening_time" ,
+		"closing_time" ,
 		"availabilty"
 	}
 }
