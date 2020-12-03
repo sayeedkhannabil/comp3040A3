@@ -22,11 +22,11 @@ This is a simple REST API with one endpoint which can which we can access using 
 {
 	"result":
 	{
-		"test_center",
-		"city",
-		"opening_time",
-		"closing_time",
-		"availabilty"
+		"test_center":"Victoria General Hospital",
+		"city":"Winnipeg",
+		"opening_time":"0800",
+		"closing_time":"2200",
+		"availabilty":"true"
 	},
 	"status":"OK"
 }
