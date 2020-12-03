@@ -37,7 +37,7 @@
 >```
 
 >### *Description*
->| Object         | Type   | Description                                       |
+| Object         | Type   | Description                                       |
 | -------------- | ------ | ------------------------------------------------- |
 | `test_center`  | string | name of the test center                           |
 | `city`         | string | name of the city                                  |
